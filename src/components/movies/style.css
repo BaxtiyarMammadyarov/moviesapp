@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+  }
+  .movie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
